@@ -335,7 +335,7 @@ h1 {
     }
     #services .pro{
       position: relative;
-      width: 75%;
+      width: 45%;
       min-width: 300px;
       padding: 10px 12px;
       border: 1px solid #cce7d0;
@@ -353,7 +353,7 @@ h1 {
     
     }
     #services .pro img{
-      width: 32%;
+      width: 25%;
       border-radius: 20px;
       -webkit-border-radius: 20px;
       -moz-border-radius: 20px;
