@@ -166,7 +166,7 @@ h1 {
     align-items: center;
 }
 .header .logo{
-    width:90px;
+    width:50px;
 }
 .header .links{
     position: relative;
@@ -423,7 +423,7 @@ h1 {
     }
     #abou-us .text1{
       text-align: right;
-      font-size: 25px;
+      font-size: 18px;
     }
     mark{
       background-color: rgb(189, 159, 118);
